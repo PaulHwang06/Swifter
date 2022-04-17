@@ -1,6 +1,6 @@
 # Swifter
 Analyze your 100m dash or running posture
-To run the code you also need to get the yolov3.weights file and the 
+To run the code you also need to get the yolov3.weights file and other files for the skeleton
 
 Enter this into the terminal of the IDE you are using (example: if you are using VS Code, just copy and paste and enter this into the terminal at the bottom and the code should run)
 python hackTJ.py --FPS (fps of the video) --File (put your video file name here) --height (your height)
